@@ -1,8 +1,14 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Lesson1</string>
     <string name="hallo">Hallo!</string>
     <string name="name">Name</string>
     <string name="bottom">Нажми</string>
         <string name="switch_on">Вкл</string>
     <string name="check_1">Сделай выбор</string>
+    <string name="names" tools:ignore="DuplicateDefinition">Name</string>
+    <string name="name2">Введите имя</string>
+    <string name="phone">Введите номер</string>
+    <string name="number">Введите число</string>
+    <string name="pass">Введите пароль</string>
+    <string name="mail">mail</string>
 </resources>
